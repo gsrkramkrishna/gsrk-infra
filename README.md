@@ -1,7 +1,7 @@
 # gsrk-infra
 
 Pleas configure the Choice Prameters.
-Name is service
+Name is service ,
 Choices are : course-api
               springmongodb
 
